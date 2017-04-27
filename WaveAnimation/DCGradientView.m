@@ -102,14 +102,7 @@
 
 }
 
-- (void)awakeFromNib {
-    [super awakeFromNib];
-    [self configParams];
-    [self initBottomLayer];
-    [self startWave];
-    [self setupTimer];
 
-}
 #pragma mark 配置参数
 - (void)configParams
 {

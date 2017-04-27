@@ -42,6 +42,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4024CB191EB1BC8500295FF6 /* DCGradientView */ = {
+			isa = PBXGroup;
+			children = (
+				404C46531E7A1FD6004A7E33 /* DCGradientView.h */,
+				404C46541E7A1FD6004A7E33 /* DCGradientView.m */,
+			);
+			name = DCGradientView;
+			sourceTree = "<group>";
+		};
 		404C46301E7A1FBA004A7E33 = {
 			isa = PBXGroup;
 			children = (
@@ -65,8 +74,7 @@
 				404C46401E7A1FBA004A7E33 /* AppDelegate.m */,
 				404C46421E7A1FBA004A7E33 /* ViewController.h */,
 				404C46431E7A1FBA004A7E33 /* ViewController.m */,
-				404C46531E7A1FD6004A7E33 /* DCGradientView.h */,
-				404C46541E7A1FD6004A7E33 /* DCGradientView.m */,
+				4024CB191EB1BC8500295FF6 /* DCGradientView */,
 				404C46451E7A1FBA004A7E33 /* Main.storyboard */,
 				404C46481E7A1FBA004A7E33 /* Assets.xcassets */,
 				404C464A1E7A1FBA004A7E33 /* LaunchScreen.storyboard */,
